@@ -1,0 +1,12 @@
+from tkinter import *
+
+root = Tk()
+root.title('GUI Calculator')
+
+check_box = Entry(root,width=47,borderwidth=5)
+check_box.grid(row=0,column=0,columnspan=4,pady=10)
+
+def button_click(number):
+    current = check_box.get()
+    check_box.delete(0,END)
+    check_box.insert(0,str(current) + str(number))

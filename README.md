@@ -1,2 +1,2 @@
 # Intermediate-level
-This repository has intermediate level projects.
+This Repository has intermediate level projects.

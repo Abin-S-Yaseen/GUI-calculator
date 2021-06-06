@@ -20,3 +20,8 @@ def button_add():
     math = 'addition'
     f_num = int(first_number)
     check_box.delete(0,END)
+
+def button_subtract():
+    first_number = check_box.get()
+    if len(check_box.get()) == 0:
+        first_number = 0

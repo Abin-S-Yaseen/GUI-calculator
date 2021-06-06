@@ -29,3 +29,4 @@ def button_subtract():
     global math
     math = 'subtraction'
     f_num = int(first_number)
+    check_box.delete(0,END)

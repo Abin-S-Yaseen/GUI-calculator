@@ -27,3 +27,4 @@ def button_subtract():
         first_number = 0
     global f_num
     global math
+    math = 'subtraction'

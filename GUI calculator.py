@@ -31,4 +31,7 @@ def button_subtract():
     f_num = int(first_number)  
     check_box.delete(0,END)
 
-def button_multiply():    
+def button_multiply():
+    first_number = check_box.get()
+    if len(check_box.get()) == 0:
+        first_number = 0

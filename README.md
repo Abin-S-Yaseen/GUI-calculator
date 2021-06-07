@@ -1,2 +1,2 @@
 # Intermediate-level
-This repository has GUI 
+This repository has GUI projects.

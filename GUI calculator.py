@@ -35,3 +35,4 @@ def button_multiply():
     first_number = check_box.get()
     if len(check_box.get()) == 0:
         first_number = 0
+    global f_num

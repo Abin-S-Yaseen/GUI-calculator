@@ -30,3 +30,5 @@ def button_subtract():
     math = 'subtraction'
     f_num = int(first_number)  
     check_box.delete(0,END)
+
+def button_multiply():    

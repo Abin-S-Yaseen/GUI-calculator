@@ -1,2 +1,2 @@
 # Intermediate-level
-This repository
+This repository has

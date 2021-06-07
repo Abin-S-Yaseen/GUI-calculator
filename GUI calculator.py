@@ -37,3 +37,6 @@ def button_multiply():
         first_number = 0
     global f_num
     global math
+    math = 'multiplication'
+    f_num = int(first_number)
+    check_box.delete(0,END)

@@ -40,3 +40,5 @@ def button_multiply():
     math = 'multiplication'
     f_num = int(first_number)
     check_box.delete(0,END)
+
+    check_box.delete(0,END)

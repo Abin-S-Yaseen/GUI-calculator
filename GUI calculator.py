@@ -43,4 +43,6 @@ def button_multiply():
 
 def button_divide():
     first_number = check_box.get()
+    if len(check_box.get()) == 0:
+        first_number = 0
     check_box.delete(0,END)

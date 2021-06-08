@@ -46,4 +46,7 @@ def button_divide():
     if len(check_box.get()) == 0:
         first_number = 0
     global f_num
+    global math
+    math = 'division'
+    f_num = int(first_number)
     check_box.delete(0,END)

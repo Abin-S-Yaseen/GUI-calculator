@@ -60,3 +60,8 @@ def button_equals():
     if math == 'subtraction':
         check_box.insert(0,f_num - int(second_number))
     if math == 'multiplication':
+        check_box.insert(0,f_num * int(second_number))
+    if math == 'division':
+        check_box.insert(0,f_num / int(second_number))
+
+

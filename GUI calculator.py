@@ -50,3 +50,5 @@ def button_divide():
     math = 'division'
     f_num = int(first_number)
     check_box.delete(0,END)
+
+def button_equals():

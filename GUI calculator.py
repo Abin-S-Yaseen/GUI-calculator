@@ -52,3 +52,8 @@ def button_divide():
     check_box.delete(0,END)
 
 def button_equals():
+    second_number = check_box.get()
+    check_box.delete(0,END)
+
+    if math == 'addition':
+        check_box.insert(0,f_num + int(second_number))

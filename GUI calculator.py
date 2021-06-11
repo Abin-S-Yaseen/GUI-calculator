@@ -86,3 +86,6 @@ button_multiply = Button(root,text='*',padx=30,pady=10,command=button_multiply)
 button_divide = Button(root,text='/',padx=30,pady=10,command=button_divide)
 
 button_1.grid(row=3,column=0)
+button_2.grid(row=3,column=1)
+button_3.grid(row=3,column=2)
+

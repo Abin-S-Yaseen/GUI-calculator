@@ -84,3 +84,5 @@ button_add = Button(root,text='+',padx=29,pady=10,command=button_add)
 button_subtract = Button(root,text='-',padx=30,pady=10,command=button_subtract)
 button_multiply = Button(root,text='*',padx=30,pady=10,command=button_multiply)
 button_divide = Button(root,text='/',padx=30,pady=10,command=button_divide)
+
+button_1.grid(row=3,column=0)

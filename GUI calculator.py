@@ -65,3 +65,8 @@ def button_equals():
         check_box.insert(0,f_num / int(second_number))
 
 
+def button_clear():
+    check_box.delete(0,END)
+
+button_1 = Button(root,text='1',padx=30,pady=10,command=lambda: button_click(1))
+button_2 = Button(root,text='2',padx=30,pady=10,command=lambda: button_click(2))

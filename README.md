@@ -1,2 +1,2 @@
-# Intermediate-level
+# GUI-projects
 This repository has GUI projects.

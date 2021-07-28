@@ -1,5 +1,5 @@
 # GUI-calculator
-This repository has a graphical user interface calculator.
+This repository has a simple graphical user interface calculator.
 
 Languages used : Python🐍
 

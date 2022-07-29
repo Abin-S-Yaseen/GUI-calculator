@@ -1,5 +1,5 @@
 # GUI-calculator
-This repository has a simple user interface calculator
+This repository has a simple UI calculator
 that can add, subtract, multiply or divide two numbers.  
 
 Languages used : Python🐍

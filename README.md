@@ -4,7 +4,7 @@ that can add, subtract, multiply or divide two numbers.
 
 Languages used : Python🐍
 
-External libraries used : Tkinter📑
+External libraries used : Tkinter library📑
 
 How to use : 
 Tip (Use mouse only)
